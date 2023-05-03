@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+My name is Tin. 
 
 - 🔭 I’m currently working on Overcloud (personal project)
 - 🌱 I’m passionate about building maintainable system which is easy to change and keeping up with the change of software requirements.
